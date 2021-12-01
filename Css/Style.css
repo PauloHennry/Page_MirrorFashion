@@ -1,0 +1,22 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+    text-indent: 15px;
+    color: #333333;
+}
+h1{
+    background-image: url(/img/body-background.png);
+}
+figure{
+    background-color: #F2EDED;
+    border:1px solid #ccc;
+    text-align: center;
+}
+figcaption{
+    font-style: italic;
+    text-align: center;
+}
+
+h2{
+    
+}
